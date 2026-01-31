@@ -70,12 +70,12 @@ Attendance & Participation | 10%
 ## Schedule
 
 The class meets on Mondays and Wednesdays from 2:00pm to 3:15pm during the spring semester effective 1/21/2026 through 5/17/2026.
-The proposed schedule for the course can be found in the week by week section of the shared  [syllabus](csc235Sp235Syllabus.pdf) 
+The proposed schedule for the course can be found in the week by week section of the shared  [syllabus](CSC235-01_SyllabusSpring26_LancorV2.pdf) 
 As discussed in class, the schedule may change to reflect the pace of instruction.
 
 > Note: The last day for course withdrawals is April 14th, 2026.
 
 ## Policies
 
-All members of the learning community agree to abide by the policies shared in the [syllabus](csc235Sp235Syllabus.pdf) that was reviewed on the first day of class.
+All members of the learning community agree to abide by the policies shared in the [syllabus](CSC235-01_SyllabusSpring26_LancorV2.pdf) that was reviewed on the first day of class.
 
