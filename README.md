@@ -4,7 +4,7 @@ This repository contains resources for SCSU's computer science course on web & d
 
 This course is a required course for all undergraduate computer science majors, computer science minors and data science minors.
 
-## [Course Description](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC235)
+## Course Description
 
 > Introduction to web design and database concepts. Topics include basics of HTML, CSS and JavaScript, web
 and database security, database fundamentals, relational model, SQL, and web application development
