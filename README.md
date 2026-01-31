@@ -12,8 +12,8 @@ framework. (3 credits)
 
 ## Prerequisites
 
-  + [CSC 212 - CS 2:Data Structures](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC212)
-  + [CSC 152 - CS 1:Programming Fundamentals](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC152), or
+  + [CSC 212 - CS2: Data Structures](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC212)
+  + [CSC 152 - CS1: Programming Fundamentals](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC152), or
   + [DSC 205 - Data Visualization](https://catalog.southernct.edu/undergraduate/courses.html#expand-DSC205)
 
 ## Objectives
