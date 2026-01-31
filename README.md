@@ -1,4 +1,4 @@
-# CSC235-Web & Database Development (Sp2026)
+# CSC235 - Web & Database Development (Sp2026)
 
 This repository contains resources for SCSU's computer science course on web & database development.
 
@@ -9,11 +9,12 @@ This course is a required course for all undergraduate computer science majors, 
 > Introduction to web design and database concepts. Topics include basics of HTML, CSS and JavaScript, web
 and database security, database fundamentals, relational model, SQL, and web application development
 framework. (3 credits)
+
 ## Prerequisites
 
-  + [CSC 212- CS 2:Data Structures](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC212)
-  + [CSC 152- CS 1:Programming Fundamentals](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC152), or
-  + [DSC 205- Data Visualization](https://catalog.southernct.edu/undergraduate/courses.html#expand-DSC205)
+  + [CSC 212 - CS 2:Data Structures](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC212)
+  + [CSC 152 - CS 1:Programming Fundamentals](https://catalog.southernct.edu/undergraduate/courses.html#expand-CSC152), or
+  + [DSC 205 - Data Visualization](https://catalog.southernct.edu/undergraduate/courses.html#expand-DSC205)
 
 ## Objectives
 
@@ -44,8 +45,7 @@ Each student is expected to achieve proficiency using a modern browser for web d
 
 #### Local Web Server
 
-Each student is expected to achieve proficiency using a local web server of choice for web development purposes. For this course we will be using [XAMPP](https://www.apachefriends.org/)
-
+Each student is expected to achieve proficiency using a local web server of choice for web development purposes. For this course, we will be using [XAMPP](https://www.apachefriends.org/).
 
 ## Learning Community
 
@@ -53,7 +53,7 @@ The current enrollment for this class is 17 students.
 
 [Dr. Lisa Lancor](https://www.southernct.edu/directory/lancorl1)) will be teaching the course. If you have a question about assignments, projects, or anything covered in class, email Professor Lancor at [lancorl1@southernct.edu](mailto:lancorl1@southernct.edu). If emailing the professor, please use your university-issued email address.
 
-The Student Assistant assigned to this course is **Francesco Thomas** who can be reached at [thomasf4@southernct.edu](mailto:thomasf4@southernct.edu)
+The Student Assistant assigned to this course is **Francesco Thomas** who can be reached at [thomasf4@southernct.edu](mailto:thomasf4@southernct.edu).
 
 ## Evaluation
 
