@@ -51,7 +51,7 @@ Each student is expected to achieve proficiency using a local web server of choi
 
 The current enrollment for this class is 17 students.
 
-[Dr. Lisa Lancor](https://www.southernct.edu/directory/lancorl1)) will be teaching the course. If you have a question about assignments, projects, or anything covered in class, email Professor Lancor at [lancorl1@southernct.edu](mailto:lancorl1@southernct.edu). If emailing the professor, please use your university-issued email address.
+[Dr. Lisa Lancor](https://www.southernct.edu/directory/lancorl1) will be teaching the course. If you have a question about assignments, projects, or anything covered in class, email Professor Lancor at [lancorl1@southernct.edu](mailto:lancorl1@southernct.edu). If emailing the professor, please use your university-issued email address.
 
 The Student Assistant assigned to this course is **Francesco Thomas** who can be reached at [thomasf4@southernct.edu](mailto:thomasf4@southernct.edu).
 
